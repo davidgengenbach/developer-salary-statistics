@@ -1,4 +1,4 @@
-# Developer statistics
+# Developer salary statistics
 
 Dataset from [mubaris.com](https://mubaris.com/2017-09-09/introduction-to-statistics-using-numpy).
 
